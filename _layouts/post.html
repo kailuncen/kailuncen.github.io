@@ -111,6 +111,12 @@ layout: default
                 <!-- disqus 评论框 end -->
                 {% endif %}
 
+                {% if site.netease_comment %}
+                <!-- 网易云跟帖 评论框 start -->
+                <div id="cloud-tie-wrapper" class="cloud-tie-wrapper"></div>
+                <!-- 网易云跟帖 评论框 end -->
+                {% endif %}
+
             </div>
 
     <!-- Sidebar Container -->
@@ -187,6 +193,20 @@ layout: default
     })();
 </script>
 <!-- disqus 公共JS代码 end -->
+{% endif %}
+
+{% if site.netease_comment %}
+<script src="https://img1.cache.netease.com/f2e/tie/yun/sdk/loader.js"></script>
+<script>
+var cloudTieConfig = {
+  url: document.location.href, 
+  sourceId: "",
+  productKey: "151cd8d20ca74e5c9231c72d29b1634f",
+  target: "cloud-tie-wrapper"
+};
+var yunManualLoad = true;
+Tie.loader("aHR0cHM6Ly9hcGkuZ2VudGllLjE2My5jb20vcGMvbGl2ZXNjcmlwdC5odG1s", true);
+</script>
 {% endif %}
 
 
