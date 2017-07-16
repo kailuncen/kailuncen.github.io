@@ -9,6 +9,7 @@ tags:
 keywords: 美团点评
 description: 在美团点评当工程师的第一年总结
 ---
+
 ![image.png](http://upload-images.jianshu.io/upload_images/6263336-7da917dfa39d8fcb.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 伴随着公司的推送，在2017年7月12日，我迎来了在公司中的第一年。
