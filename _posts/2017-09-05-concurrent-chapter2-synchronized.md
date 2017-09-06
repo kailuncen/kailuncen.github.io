@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "读书笔记之<<java并发编程的艺术-第二章>>之synchronized"
+title: "读书笔记之<java并发编程的艺术-第二章>之synchronized"
 date: 2017-09-05
 tags:
     - java    
     - 并发
 keywords: java
-description: 读书笔记之<<java并发编程的艺术-第二章>>之synchronized
+description: 读书笔记之<java并发编程的艺术-第二章>之synchronized
 ---
 
 在之前的文章中学习了volatile关键字，volatile可以保证变量在线程间的可见性，但他不能真正的保证线程安全。
