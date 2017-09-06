@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "读书笔记-java并发编程的艺术第一章
+title: "读书笔记-java并发编程的艺术第一章"
 date: 2017-09-03
 tags:
     - java    
