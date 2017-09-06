@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "读书笔记之<java并发编程的艺术-第二章>之volatile"
+title: "读书笔记-java并发编程的艺术第二章-volatile"
 date: 2017-09-04
 tags:
     - java    
     - 并发
 keywords: java
-description: 读书笔记之<java并发编程的艺术-第二章>之volatile
+description: 读书笔记-java并发编程的艺术第二章-volatile
 ---
 
 这一章节的话，主要是讲一下在并发操作中常见的volatile、synchronized以及原子操作的相关知识。

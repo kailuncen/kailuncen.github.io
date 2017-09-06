@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "读书笔记之<java并发编程的艺术-第一章>"
+title: "读书笔记-java并发编程的艺术第一章
 date: 2017-09-03
 tags:
     - java    
     - 并发
 keywords: java
-description: 读书笔记之<java并发编程的艺术-第一章>
+description: 读书笔记-java并发编程的艺术第一章
 ---
 
 # 前言
