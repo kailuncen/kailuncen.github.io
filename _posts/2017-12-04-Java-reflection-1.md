@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Java反射机制学习(一)"
+date: 2017-12-04
+tags:
+    - Java
+    - 反射
+keywords: Java,反射
+description: Java反射机制学习(一)
+---
 ### Java反射机制(一) 
 结合Oracle官方通过JDK8编写的反射教程，复习一下反射的知识。结尾篇补一个小例子。
 ### 主要内容
